@@ -1,2 +1,2 @@
 # Draftkings-Fantasy-Lineups-Optimization
-Fantasy NBA and NFL Lineups Optimization for Draftkings players
+Draftkings Fantasy NBA and NFL Lineups Optimization
