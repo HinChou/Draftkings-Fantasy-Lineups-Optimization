@@ -1,4 +1,4 @@
 # Draftkings-Fantasy-Lineups-Optimization
-Right now, just draftkings fantasy NBA lineups optimization.
+Right now, just Draftkings Fantasy NBA lineups optimization.
 
 NFL lineups optimization is on its way...
